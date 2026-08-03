@@ -1,7 +1,11 @@
 # Windows-to-Dual-Boot-Prep
-Prepairing for a dual boot or simply starting a new, you have some important settings and stuff you want to keep for backup.
+Preparing for a dual boot or simply starting a new, you have some important settings and stuff you want to keep for backup. 
 
 Get it all in a folder, easy with this powershell script.
+
+This script backs up various Windows settings and configurations, including Wi-Fi profiles, installed software, drivers, and custom files for Paint.NET. 
+
+It creates a structured directory for storing these backups. (Tested on win10.)
 
 <img width="1221" height="473" alt="image" src="https://github.com/user-attachments/assets/bee3fe8c-7838-410b-9313-63e30580a7da" />
 
